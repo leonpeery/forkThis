@@ -6,16 +6,15 @@
 
 ### Description
 
-Create a description and fill it in here.
+Test readme 
 
 ## Languages used
 
-What languages were used for this repo:
-List them
+Java
 
 ### Known Bugs
 
-Are there any? If so what are they?
+no known bugs
 
 ## License
 
@@ -23,6 +22,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+Code Base Academy
